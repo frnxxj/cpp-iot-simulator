@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/simulator/CMakeFiles/simulator.dir
+C:/Users/user/CLionProjects/simulator/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/simulator/CMakeFiles/rebuild_cache.dir

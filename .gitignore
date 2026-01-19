@@ -1,0 +1,17 @@
+cmake-build-debug/
+cmake-build-release/
+build/
+
+.idea/
+.vscode/
+
+*.exe
+*.dll
+*.a
+*.o
+*.obj
+
+logs.txt
+
+.DS_Store
+Thumbs.db
